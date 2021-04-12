@@ -1,6 +1,8 @@
 # Description
 
-Client and server scripts that simulate a reliable UDP. Uses adaptive timeout and sliding window.
+Client and server scripts that simulate a reliable UDP.
+
+Uses an adaptive timeout and the sliding-window mechanism.
 
 # Usage
 
